@@ -1,0 +1,173 @@
+
+@media screen and (min-width: 460px){
+    body{
+        background-color: white;
+    }
+}
+
+.top2{
+    background-color:aliceblue;
+    position: relative;
+}
+
+.signaturePosition{
+    position: absolute;
+    bottom: 8px;
+}
+
+
+.middle{
+    background-color: rgb(254, 235, 255);
+}
+
+.first{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.middle2{
+    background-color:rgb(255, 255, 255);
+}
+
+.middle3{
+    background-color:rgb(232, 252, 255);
+}
+
+.middle5{
+    background-color:rgb(255, 232, 232);
+}
+
+.header{
+    margin-top: 13rem;
+    font-weight:bolder;
+    font-size: 6rem;
+
+}
+
+.header2{
+    font-weight:bolder;
+    font-size: 3rem;
+}
+
+.lists{
+    display: flex;
+    align-items: center;
+}
+
+.skills{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.bgimg{
+    width: 100%;
+    height:475px;
+    background-image: url('wizkid2.jpg');
+    background-size: cover;
+}
+
+.footer{
+    background-color: #f6f6f6;
+}
+
+.footer2{
+    background-color: #f6f6f6;
+    position: relative;
+    bottom: -11rem;
+ 
+}
+
+.footer3{
+    background-color: black;
+}
+
+.albumart{
+    display: flex;
+    flex-direction: row;
+}
+
+.albuminfo{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+
+.img1{
+    margin-bottom: 0.5rem;
+}
+
+.img2{
+    width: 40rem;
+    border-radius: 0.25rem;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 4rem;
+}
+
+.artwork{
+    width: 12rem;
+    border-radius: 0.25rem;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 1rem;
+}
+
+.artwork2{
+    width: 16rem;
+    border-radius: 1.2rem;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+.artwork3{
+    width: 18rem;
+    border-radius: 1.2rem;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+.artwork4{
+    width: 14rem;
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-top: 2rem;
+}
+
+.line{
+    max-width: 1300px;
+    margin: 0rem, 0rem, 2rem, 0rem;
+}
+
+.hr2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: 0.1;
+  }
+
+  .hr3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: 0.1;
+  }
+
+p {
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+
+h5{
+    margin-top: 0rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 1rem;
+}
+
